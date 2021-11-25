@@ -5,7 +5,7 @@ app = Flask(__name__)
 app.static_folder = 'static'
 
 @app.route("/")
-def home():
+def home(): 
     return render_template("index.html")
 
 @app.route("/get")
