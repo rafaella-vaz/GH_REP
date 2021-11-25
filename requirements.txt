@@ -22,6 +22,8 @@ nltk==3.6.5
 numpy==1.21.3
 packaging==21.2
 pathy==0.6.1
+Pint==0.18
+plac==0.9.6
 preshed==3.0.6
 pt-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.1.0/pt_core_news_sm-3.1.0-py3-none-any.whl
 pydantic==1.8.2
